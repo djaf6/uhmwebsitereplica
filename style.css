@@ -32,15 +32,26 @@ nav {
 h1 {
   color: #1b4732;
   font-size: xxx-large;
+  font-family: Helvetica;
 }
 
 .row2 {
   color: cadetblue;
   font-size: xx-large;
+  font-family: Helvetica;
 
 }
 .row1 {
   font-size: x-large;
   float: center;
+  font-family: Helvetica;
 }
 
+.col1{
+  font-size: medium;
+}
+
+.picturecap {
+  color: cadetblue;
+  font-family: Helvetica;
+}
