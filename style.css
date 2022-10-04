@@ -55,3 +55,24 @@ h1 {
   color: cadetblue;
   font-family: Helvetica;
 }
+
+p {
+  font-size: large;
+}
+
+.para1 {
+  margin-right: 500px;
+  margin-left: 500px;
+  align: text-center;
+}
+
+.list1{
+  color:white;
+  font-family: Helvetica;
+  font-size: large;
+}
+
+.small{
+  color:white;
+  font-size: small;
+}
