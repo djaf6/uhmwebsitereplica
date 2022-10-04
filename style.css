@@ -1,0 +1,22 @@
+body {
+  background: #fff;
+  color: #1d1d1d;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 1.5em;
+  font-weight: normal;
+  letter-spacing: -0.003em;
+  line-height: 1.7;
+}
+nav {
+  font-family: Helvetica;
+}
+
+.mt-5 {
+  margin-top: 5 !important;
+  margin-bottom: 5 !important;
+}
+
+.pull-right {
+  float: right;
+}
+
